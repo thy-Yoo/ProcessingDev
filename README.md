@@ -1,5 +1,5 @@
 <!--ProcessingDev-->
-# Visual Programming / Interaction Art Design
+# Visual Programming / Interactive Art Design
 __01 Assignments__ :대학에서 피지컬컴퓨팅과 컴퓨터비전 강의를 들으며 제작한 비주얼 프로그래밍 과제입니다.<br>
 __02 MidFinalTerm__ :비주얼 프로그래밍 중간 기말 과제입니다. <br>
 __03 GraduationProject__ :졸업전시회를 위해 제작했던 인터랙션 작품 입니다. <br>
