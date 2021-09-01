@@ -4,7 +4,8 @@ __01 Assignments:__ 대학에서 피지컬컴퓨팅과 컴퓨터비전 강의를
 __02 MidFinalTerm:__ 비주얼 프로그래밍 중간 기말 과제입니다. <br>
 __03 GraduationProject:__ 졸업전시회를 위해 제작했던 인터랙션 작품 입니다. <br>
 ## 개발 환경 및 구동 안내사항
-.pde 파일을 실행하려면, https://processing.org/download 에서 Processing 3.5.4 version을 다운받으시면 됩니다. <br>
+파일을 실행하려면, https://processing.org/download 에서 Processing 3.5.4 version을 다운받으십시오. <br>
+프로젝트 폴더명과 이름이 같은 .pde 파일을 실행하시면 됩니다. <br>
 각 프로젝트에서 필요한 라이브러리, 작동 방법들은 프로젝트 폴더 내 안내사항.txt에 서술하였습니다.
 
 ### Processing 2.2.1
